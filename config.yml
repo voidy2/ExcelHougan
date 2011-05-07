@@ -1,0 +1,8 @@
+excel_filename: output.xls
+header: ヘッダー
+images:
+  - ./image/qb1.jpg
+  - ./image/qb2.jpg
+  - ./image/qb3.jpg
+  - ./image/qb4.jpg
+
