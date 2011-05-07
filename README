@@ -11,3 +11,6 @@ ExcelマクロでいいかもしれないがVBAも触りたくない
 $ bin/sbt run
 
 config.ymlで画像やヘッダを指定できる
+
+<使用例>
+https://github.com/downloads/voidy21/ExcelHougan/output.xls
