@@ -8,7 +8,9 @@ ExcelマクロでいいかもしれないがVBAも触りたくない
 そのうち機能追加するかも
 
 <実行>
-$ bin/sbt run
+$ bin/sbt
+> update
+> run
 
 config.ymlで画像やヘッダを指定できる
 
